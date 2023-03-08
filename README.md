@@ -1,6 +1,8 @@
 # SpReME
 
-![spreme](https://user-images.githubusercontent.com/46705780/223678058-e399f472-8ae0-49f0-b407-9fbf4389c77d.png)
+<p align="center">
+  <img width="660" height="330" src="https://user-images.githubusercontent.com/46705780/223694737-7517a468-2061-4e26-b84b-5082ae79f9ba.png">
+</p>
 
 This repository contains official code for [SpReME: Sparse Regression for Multi-Environment Dynamic Systems](https://arxiv.org/pdf/2302.05942.pdf).
 
