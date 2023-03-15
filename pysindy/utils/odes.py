@@ -18,11 +18,11 @@ def lotka(t, x, p):
     return d
 
 def pendulum(t, x, p):
-    b, m, g, L = p
+    b_m, g_L = p
 
     d = np.zeros(2)
     d[0] = x[1]
-    d[1] = -(b/m) * x[1] - (g/L) * np.sin(x[0])
+    d[1] = -(b_m) * x[1] - (g_L) * np.sin(x[0])
     
     return d
 
